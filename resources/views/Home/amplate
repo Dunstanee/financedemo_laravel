@@ -1,0 +1,4 @@
+@extends('App.App')
+@section('content')
+    
+@endsection
